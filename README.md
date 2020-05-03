@@ -11,7 +11,7 @@ Sample website with plenty of files for demos
 
 ## another description
 
-fafadfdfdafdafafda
+some other text
 
 ## new way of life
 
