@@ -16,3 +16,7 @@ fafadfdfdafdafafda
 ## new way of life
 
 dasdsadsadsadasdasdasdsa
+
+## Copyright
+
+this is copyright section
